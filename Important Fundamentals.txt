@@ -1,9 +1,11 @@
+*/This is Testing Session*/
+
 Types of data available?
 	3 types of data available [unstructured, semi-structured, structured]
 	
 Types of data storage formats?
 	a) File 
-	b) Table
+	b) Table    */Two Storages*/
 
 Types of storage areas?
 	On-Premise: Within the organization storage [your machine, your device etc.]
